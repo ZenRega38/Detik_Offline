@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Detik Offline</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="home">Home</string>
+    <string name="explore">Explore</string>
+    <string name="search">Search</string>
+    <string name="service">Service</string>
+    <string name="category">Category</string>
+    <string name="video">Video</string>
+    <string name="detikcom_1_jam_yang_lalu">detikcom | 1 Jam yang lalu</string>
+    <string name="pasar_ramai_dikunjungi_warga_meskipun_wabah_covid_19_belum_dinyatakan_usai">Pasar ramai dikunjungi warga meskipun wabah covid 19 belum dinyatakan usai</string>
+</resources>

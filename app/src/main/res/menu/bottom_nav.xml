@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/itemHome"
+        android:icon="@drawable/ic_home"
+        android:title="@string/home" />
+
+    <item
+        android:id="@+id/itemService"
+        android:icon="@drawable/service"
+        android:title="@string/service" />
+
+    <item
+        android:id="@+id/itemCategory"
+        android:icon="@drawable/category"
+        android:title="@string/category" />
+
+    <item
+        android:id="@+id/itemVideo"
+        android:icon="@drawable/video"
+        android:title="@string/video" />
+
+
+</menu>
